@@ -1,0 +1,46 @@
+/* Trade Gothic */
+@font-face {
+    font-family: 'Trade Gothic';
+    src: url('../fonts/tradegothic-light.woff2') format('woff2'),
+        url('../fonts/tradegothic-light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Trade Gothic';
+    src: url('../fonts/tradegothic.woff2') format('woff2'),
+         url('../fonts/tradegothic.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Trade Gothic';
+    src: url('../fonts/tradegothic-bold.woff2') format('woff2'),
+         url('../fonts/tradegothic-bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* ITC Avant Grand Pro */
+
+@font-face {
+    font-family: 'Avant Grade';
+    src: url('../fonts/AvantGarde-Light.woff2') format('woff2'),
+        url('../fonts/AvantGarde-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Avant Grade';
+    src: url('../fonts/AvantGarde-Book.woff') format('woff2'),
+        url('../fonts/AvantGarde-Book.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Avant Grade';
+    src: url('../fonts/AvantGarde-Bold.woff2') format('woff2'),
+        url('../fonts/AvantGarde-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
